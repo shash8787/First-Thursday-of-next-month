@@ -1,0 +1,4 @@
+Pre-requisites: Ruby 1.9.3
+
+Run the following from command prompt to execute the file.
+ruby First_Thursday_of_Next_Month.rb
